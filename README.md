@@ -1,2 +1,0 @@
-# setimapomba
-site setimapomba
